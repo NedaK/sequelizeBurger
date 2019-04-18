@@ -1,0 +1,55 @@
+.jumbotron.display-4 {
+    
+    
+    color: #000000;
+    opacity: 0.8;
+  }
+  .container{
+      opacity: 0.6;
+      font-weight: bold;
+      color: #000000;
+  }
+  .display-4{
+    font-weight: 900;
+  }
+
+  body{
+    background-image: url("../img/burger.jpg");
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+  }
+  .card-body{
+    font-weight: bold;
+    color: #000000;
+  }
+  .btn{
+      font-weight: 600;
+      z-index: 1;
+  }
+  
+  
+
+  .form-control {
+    display: block;
+    width: 80%;
+    padding: .375rem .75rem;
+    font-size: 1.5rem;
+    line-height: 1.7;
+    color: #000000;
+    background-color: #ffffff;
+    background-clip: padding-box;
+    border: 1px solid #000000;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    }
+  ul {
+    list-style-type: none;
+    }
+
+  li{
+      padding: 10px;
+      font-weight: bold;
+      color: #000000;
+  }
